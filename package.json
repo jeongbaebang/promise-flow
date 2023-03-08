@@ -1,5 +1,5 @@
 {
-  "name": "@bang/promise-flow",
+  "name": "@jeongbaebang/promise-flow",
   "version": "1.0.0",
   "description": "An asynchronous function that can execute a series of callback functions in a method chain.",
   "type": "module",
