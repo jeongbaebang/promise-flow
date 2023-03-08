@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "author": "jeongbaebang_dev",
-  "repository": "https://github.com/jeongbaebang/promiseFlow",
+  "repository": "https://github.com/jeongbaebang/promise-flow",
   "license": "MIT",
   "keywords": [
     "typescript",
